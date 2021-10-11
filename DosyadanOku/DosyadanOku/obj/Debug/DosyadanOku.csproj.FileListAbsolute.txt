@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\DosyadanOku\DosyadanOku\bin\Debug\DosyadanOku.exe.config
+C:\Users\Administrator\source\repos\DosyadanOku\DosyadanOku\bin\Debug\DosyadanOku.exe
+C:\Users\Administrator\source\repos\DosyadanOku\DosyadanOku\bin\Debug\DosyadanOku.pdb
+C:\Users\Administrator\source\repos\DosyadanOku\DosyadanOku\obj\Debug\DosyadanOku.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\DosyadanOku\DosyadanOku\obj\Debug\DosyadanOku.Form1.resources
+C:\Users\Administrator\source\repos\DosyadanOku\DosyadanOku\obj\Debug\DosyadanOku.Properties.Resources.resources
+C:\Users\Administrator\source\repos\DosyadanOku\DosyadanOku\obj\Debug\DosyadanOku.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\DosyadanOku\DosyadanOku\obj\Debug\DosyadanOku.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\DosyadanOku\DosyadanOku\obj\Debug\DosyadanOku.exe
+C:\Users\Administrator\source\repos\DosyadanOku\DosyadanOku\obj\Debug\DosyadanOku.pdb
